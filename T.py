@@ -5,6 +5,19 @@ path ="/Users/adityanegi/Downloads/PFp.jpeg"
 img_array = np.array(Image.open(path))
 s = pd.Series([img_array])
 print(s)
+t = input("Enter the address:")
+cont = np.array(Image.open(t))
+t = pd.Series([cont])
+if s == t :
+    print("true")
+else :
+     print("false")
+
+
+
+
+
+
 '''
  X = [1,2,3,4,5]
 s1 = pd.Series(X)
