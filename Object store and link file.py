@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 from PIL import Image
+import sqlite3
+
 path ="/Users/adityanegi/Downloads/PFp.jpeg"
 img_array = np.array(Image.open(path))
 s = pd.Series([img_array])
