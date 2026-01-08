@@ -13,11 +13,6 @@ if s == t :
 else :
      print("false")
 
-
-
-
-
-
 '''
  X = [1,2,3,4,5]
 s1 = pd.Series(X)
