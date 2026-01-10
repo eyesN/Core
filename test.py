@@ -32,3 +32,8 @@ print(rows)
 
 # 6. CLOSE CONNECTION
 connection.close()
+x = input("enter:")
+if x==7 :
+    print("hello")
+else :
+    print("k")
