@@ -1,4 +1,4 @@
-import sqlite3
+'''import sqlite3
 
 # 1. ESTABLISH CONNECTION
 # This creates 'example.db' if it doesn't exist
@@ -36,5 +36,7 @@ x = input("enter:")
 if x==7 :
     print("hello")
 else :
-    print("k")
-
+    print("k")'''
+import pandas as pd
+s1 = pd.Series(1,2,3,4)
+print(s1)
