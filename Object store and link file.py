@@ -20,3 +20,16 @@ else :
 s1 = pd.Series(X)
 print (s1)
 array_s1 = image_series.map()'''
+
+import math as mt
+
+k = (mt.pie)
+
+
+
+
+if (k>6)
+{
+    print("hello world")
+}
+
