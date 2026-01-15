@@ -9,3 +9,8 @@ elif not s1.equals(s2) :
     print("improper set")
 else :
     print("no set ")
+mo 
+t = mo null(set)
+if 
+  t>1
+then (
